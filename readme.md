@@ -3,13 +3,14 @@
 
 This libriray provides functions for downloading tables from html 
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
-## [Click to see demo](https://tl-demo.surge.sh)
+## [Click here to see demo](https://tl-demo.surge.sh)
 
 ## Installation
 ```html
-<script src="https://cdn.jsdelivr.net/gh/clowzed/tl@1.0.0/index.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/clowzed/tl/index.js"></script>
+or minified version
+<script src="https://cdn.jsdelivr.net/gh/clowzed/tl/index.min.js"></script>
+
 ```
 
 ## Usage
